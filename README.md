@@ -1,2 +1,2 @@
 # Flask_ML_Webapp
-The following application detects facial expression.
+The source code to create an application that detects facial expression.
