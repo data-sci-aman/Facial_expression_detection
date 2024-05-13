@@ -1,8 +1,7 @@
 # Facial Expression detection
+The source code to create an application that detects facial expression.
 
 Description - The applications access images through webcam and detects the facial expression in real-time and labels it.
-
-The source code to create an application that detects facial expression.
 
 Programming language used - Python, HTML
 
